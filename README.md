@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on some project which my friend called it as dumb.
+- 🔭 I’m currently working on some project.
 - 🌱 I’m currently learning Computer Science and etc.
 - 👯 I’m looking to collaborate on small projects.
 - 🤔 I’m looking for help with many new stuffs

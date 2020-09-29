@@ -1,6 +1,6 @@
 <div>
 <h1>Failed to load Readme.md</h1>
-<h4>Seriously? You really believed that? </h4>
+<h4>Kidding.... </h4>
 </div>
 
 

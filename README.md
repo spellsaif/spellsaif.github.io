@@ -1,6 +1,5 @@
 <h1>Hi there 👋</h1>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some project.
 - 🌱 I’m currently learning Computer Science and etc.

@@ -1,5 +1,5 @@
 <div>
-<h1>Failed to load Readme.md</h1>
+<h1>Failed to load README.md</h1>
 <h3>For a moment you believed that... Didn't you!</h3>
 </div>
 
